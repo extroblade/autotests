@@ -1,2 +1,2 @@
-# autotests
- python autotests \ qa
+# Python Selenium Autotest
+  simple autotests for AQA
